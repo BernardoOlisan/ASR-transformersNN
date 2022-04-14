@@ -1,4 +1,4 @@
-This is a project that was with the intention for DOT.
+### This is a project that was with the intention for DOT.
 
 Our own ASR with trasnformers Neural Networks for DOT, the 
 problem was the Dataset, it contains only 500 hours for training
@@ -18,4 +18,8 @@ But the model at the end works perfect:)
 the model.model only contains 100 epochs of training with a loss
 aprox of 0.65
 
-Try to use a good mic
+### Tutorial
+The tutorial is on Medium.com here https://medium.com/@bernardoolisan/asr-speech-recognition-creation-with-tranformers-nn-30a8b8af1b6e
+Go Clap that post!
+
+# Try to use a good mic
