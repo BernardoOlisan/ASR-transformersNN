@@ -24,5 +24,6 @@ aprox of 0.65
 # Tutorial
 The tutorial is on Medium.com here https://medium.com/@bernardoolisan/asr-speech-recognition-creation-with-tranformers-nn-30a8b8af1b6e
 Go Clap that post!
+![image](https://user-images.githubusercontent.com/46250121/163433917-6db5f487-5f5e-4836-ad89-c15836daa4bc.png)
 
 # Try to use a good mic...
